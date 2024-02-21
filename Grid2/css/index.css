@@ -1,0 +1,61 @@
+header{
+    width: 100%;
+    height: 100px;
+    
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.logo{
+    width: 200px;
+    height: 45px;
+    font-size: 30px;
+    
+}
+.menu{
+    width: 200px;
+    height: 40px;
+    background-color: #141414;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    
+}
+.seccion{
+    width: 80%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+.articulo1{
+    width: 90%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+     
+}
+.articulo1 a{
+
+    font-size: 10px;
+    color:black;
+    padding: 5px 10px;
+    bottom: 1px;
+    border-left: 2px solid black;
+    
+    text-decoration: none;
+}
+.seccion2{
+    width: 85%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+
+}
+
